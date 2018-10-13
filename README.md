@@ -2,6 +2,8 @@
 
 A device that remembers the last IR signal that was taught to it and triggers some action when the same signal is received again.
 
+**Note:** The program is written for `MPLab-C18` compiler for Microchip's PIC 18F family micro-controllers.
+
 To teach it, 
 1. Start the device.
 2. Point any IR remote (TV/AC/Toy etc.) to the reader.
